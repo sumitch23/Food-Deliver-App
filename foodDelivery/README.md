@@ -10,7 +10,6 @@
   <img src="./foodDelivery.gif">
 </p>
 
-## [Demo](https://react-food-delivery.herokuapp.com/)
 
 React Food Delivery app enables simplified responsive UI using react-redux combinations.
 
